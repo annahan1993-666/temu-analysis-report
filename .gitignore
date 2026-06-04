@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.workbuddy/
+.vscode/
+.idea/
+*.xlsx
+*.xlsm
+*.csv
+Thumbs.db
+.DS_Store
+*.log
